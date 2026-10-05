@@ -78,7 +78,7 @@ Through this project, I practiced:
 
 **VALLAPI PRATHYUSHA**
 
-GitHub: `prathyusha-14`
+GitHub: `prathyushavallapi14`
 
 ## ⭐ Support
 
